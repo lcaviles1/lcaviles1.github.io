@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+nav.navbar {
+    background-color: #2c3e50 !important;
+    padding: 30px;
+}
+
+nav.navbar a.nav-link {
+    color: white !important; 
+}
+
+nav.navbar .navbar-brand {
+    font-weight: bold;
+    color: white !important;
+}
+
+nav.navbar a.nav-link:hover {
+    color: #3498db !important; 
+}
+
+#educacion, #experiencia {
+    background-color: #f9f9f9; 
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+footer {
+    background-color: #2c3e50 ;
+    color: white;
+}
+ 
+
